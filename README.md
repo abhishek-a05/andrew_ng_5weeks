@@ -1,2 +1,2 @@
-# andrew_ng_5weeks
-code for the andrew ng machine learning courses in matlab
+# andrew_ng_machine_learning
+code for the andrew ng machine learning course in matlab
